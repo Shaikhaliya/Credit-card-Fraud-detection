@@ -88,19 +88,6 @@ Since fraud detection requires minimizing missed fraudulent transactions, **Reca
 
 ---
 
-## 📁 Project Structure
-
-```
-Credit-Card-Fraud-Detection/
-│
-├── Credit_Card_Fraud_Detection.ipynb
-├── creditcard.csv
-├── fraud_detection_model.pkl
-├── README.md
-└── screenshot.png
-```
-
----
 
 ## 🚀 How to Run
 
